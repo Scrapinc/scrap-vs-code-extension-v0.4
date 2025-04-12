@@ -1,8 +1,8 @@
 import * as vscode from 'vscode';
 import axios from 'axios';  // Axios import
 
-const GOOGLE_API_KEY = 'AIzaSyCLNEqlvrqvoGnHrOjZZNy5Pw9a9q_PGDg';
-const GOOGLE_SEARCH_ENGINE_ID = '16318ce58ae09495c';
+const GOOGLE_API_KEY = '';
+const GOOGLE_SEARCH_ENGINE_ID = '';
 
 let webviewPanel: vscode.WebviewPanel | undefined;
 
